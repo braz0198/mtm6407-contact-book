@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-rc.0"
   }
 }
